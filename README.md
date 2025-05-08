@@ -1,7 +1,7 @@
 # My-html.
 THis is a collection of HTMl projects following my learning curve. You can paste the titles within the link above to get the outputs.
 
-Questions answered.html = Just started learning used basic stuff like <h1> and <p> Tags
+Questions answered.html = Just started learning used basic stuff like < h1 > and < p > Tags
 
 HTML tags.html = As soon as I learned about tables, i knew i needed to make a table with all the tags to keep track of them 
 
